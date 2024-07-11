@@ -1,0 +1,6 @@
+Match_ID,Date,Team1,Team2,Venue,Winner,Total.Runs,Total.Wickets
+1,01-04-2023,Team A,Team F,Stadium 1,Team A,200,10
+2,02-04-2023,Team B,Team G,Stadium 2,Team G,180,8
+3,03-04-2023,Team C,Team H,Stadium 3,Team C,220,9
+4,04-04-2023,Team D,Team I,Stadium 4,Team I,150,7
+5,05-04-2023,Team E,Team J,Stadium 5,Team E,210,6
